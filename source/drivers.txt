@@ -15,7 +15,7 @@ Drivers
 
 .. note::
    
-   TEST For information on next generation MongoDB drivers, see the
+   For information on next generation MongoDB drivers, see the
    following blog posts:
 
    - `Server Discovery and Monitoring Blog Post <http://www.mongodb.com/blog/post/server-discovery-and-monitoring-next-generation-mongodb-drivers?jmp=docs>`_
