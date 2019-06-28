@@ -1,7 +1,7 @@
 :orphan:
 
 ==========================================
-CAuthenticate to MongoDB with the C# Driver
+HiCAuthenticate to MongoDB with the C# Driver
 ==========================================
 
 This page is a brief overview of authenticating to a MongoDB cluster
