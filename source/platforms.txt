@@ -2,8 +2,8 @@
 Platforms
 =========
 
-Amllazon Web Services EC2
--------------------------
+Amlazon Web Services EC2
+------------------------
 
 .. toctree::
    :maxdepth: 1
