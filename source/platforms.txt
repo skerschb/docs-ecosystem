@@ -1,6 +1,6 @@
-==============
-helloPlatforms
-==============
+=========
+Platforms
+=========
 
 Amazon Web Services EC2
 -----------------------
