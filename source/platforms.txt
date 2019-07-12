@@ -2,8 +2,8 @@
 Platforms
 =========
 
-Amazon Web Services EC2
------------------------
+Amllazon Web Services EC2
+-------------------------
 
 .. toctree::
    :maxdepth: 1
