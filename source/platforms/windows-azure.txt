@@ -14,7 +14,7 @@ Microsoft Azure
    :depth: 1
    :class: singlecol
 
-MongoDB on Azure brings the power of the leading next-generation
+MongoDB on Azure HELLO brings the power of the leading next-generation
 database to Microsoft’s flexible, open, and scalable cloud.
 
 `Microsoft Azure <http://azure.microsoft.com/>`_ is an open and
