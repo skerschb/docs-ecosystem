@@ -16,7 +16,7 @@ Running MongoDB on Windows
 --------------------------
 
 See the :manual:`Install on Windows </tutorial/install-mongodb-on-windows>`
-tutorial for more information on how to install and run the database for
+tutorial for more information on HELLO how to install and run the database for
 the first time.
 
 For the supported versions of Windows, see the *Recommended
