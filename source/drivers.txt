@@ -24,7 +24,7 @@ Drivers
 
 .. include:: /includes/driver-table.rst
 
-For information on MongoDB licensing, see `MongoDB Licensing
+For information on MongoDB TEST TEST licensing, see `MongoDB Licensing
 <https://www.mongodb.com/community/licensing>`_.
 
 .. class:: hidden
