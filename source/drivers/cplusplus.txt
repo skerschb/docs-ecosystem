@@ -1,0 +1,111 @@
+========================
+MongoDB C Driver 
+========================
+
+.. default-domain:: mongodb
+
+.. contents:: On this page
+   :local:
+   :backlinks: none
+   :depth: 1
+   :class: twocols
+
+
+MongoDB C++ Driver Compatibility
+--------------------------------
+
+.. list-table::
+   :header-rows: 1
+   :stub-columns: 1
+   :class: compatibility-large
+
+   * - C++ Driver
+     - MongoDB 4.0
+     - MongoDB 3.6
+     - MongoDB 3.4
+     - MongoDB 3.2
+     - MongoDB 3.0
+     - MongoDB 2.6
+     - MongoDB 2.4
+
+   * - mongocxx 3.4.x
+     - |checkmark|
+     - |checkmark|
+     - |checkmark|
+     - |checkmark|
+     - |checkmark|
+     -
+     -
+
+   * - mongocxx 3.3.x
+     -
+     - |checkmark|
+     - |checkmark|
+     - |checkmark|
+     - |checkmark|
+     -
+     -
+
+   * - mongocxx 3.2.x
+     -
+     -
+     - |checkmark|
+     - |checkmark|
+     - |checkmark|
+     - |checkmark|
+     - |checkmark|
+
+   * - mongocxx 3.1.x
+     -
+     -
+     - |checkmark|
+     - |checkmark|
+     - |checkmark|
+     - |checkmark|
+     - |checkmark|
+
+   * - mongocxx 3.0.x
+     -
+     -
+     -
+     - |checkmark|
+     - |checkmark|
+     - |checkmark|
+     - |checkmark|
+
+
+.. include:: /includes/unicode-checkmark.rst
+
+Installing
+----------
+
+`Install <http://mongocxx.org/mongocxx-v3/installation/>`_ the MongoDB C driver.
+
+C++ Driver Documentation
+------------------------
+
+* `tutorial <http://mongocxx.org/mongocxx-v3/tutorial/>`_
+   offers a brief introduction to the C++ Driver
+
+API Reference
+-------------
+
+* `MongoDB C++ Driver API docs <http://mongocxx.org/api/current/>`_
+
+
+Having Trouble?
+---------------
+
+There are a number of ways to `Get Help <http://mongocxx.org/getting-help/>` from the user
+community or MongoDB Technical Support.
+
+C++ Driver Community
+--------------------
+
+Questions can be asked through the `mongodb-user Google Group <https://groups.google.com/forum/#!forum/mongodb-user>`_
+
+Bug Reporting
+-------------
+
+New Features and bugs can be reported on `jira <https://jira.mongodb.org/secure/RapidBoard.jspa?rapidView=428&projectKey=CXX&view=detail>`_
+
