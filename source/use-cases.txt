@@ -76,9 +76,11 @@ posts, and media, in MongoDB.
 
    /use-cases/metadata-and-asset-management
    /use-cases/storing-comments
+   /use-cases/http-interfaces
 
 .. toctree::
    :titlesonly:
    :hidden:
 
    /use-cases/client-side-field-level-encryption-guide
+   /use-cases/client-side-field-level-encryption-local-key-to-kms
