@@ -4,7 +4,7 @@
 MongoDB Drivers and Ecosystem
 =============================
 
-tEST TEST hI TEST TEST TEST The MongoDB Ecosystem contains documentation for the drivers,
+tEST TEST hI The MongoDB Ecosystem contains documentation for the drivers,
 frameworks, tools, and platform services that work with MongoDB. For
 the main MongoDB documentation, see the :manual:`MongoDB Manual </>`.
 
